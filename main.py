@@ -24,5 +24,3 @@ while run :
     if mode == "e":
         run = False
         break
-
-# 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
